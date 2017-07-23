@@ -1,4 +1,4 @@
-# TTN-BUZZ
+# Basic Node App
 
 #### To get started
 ### Setup
