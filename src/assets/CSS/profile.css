@@ -1,0 +1,29 @@
+
+.main-profile {
+    background-color: rgba(88, 90, 83, 0.16);
+    border: 5px solid #f1f1f1;
+    height: auto;
+    /*background-size: cover;*/
+    /*background-image: url("http://www.bestpsdfreebies.com/wp-content/uploads/2013/11/5_free_seamless_icon_patterns.jpg");*/
+    background-repeat: repeat;
+    min-height: 104vh;
+
+}
+.buzz {
+    display: inline-block;
+    width: 70%;
+    margin-left: 1%;
+}
+
+.create-buzz {
+    background-color: white;
+    margin-bottom: 7%;
+    margin-top: 6px;
+    border-radius: 20px;
+    border: 2px solid #c1b9b9;
+}
+
+.populate-buzz {
+    /*overflow: hidden;*/
+
+}

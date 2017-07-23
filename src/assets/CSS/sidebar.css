@@ -1,0 +1,41 @@
+.sidebar{
+    float: left;
+    display: inline-block;
+    width: 25%;
+    background-color: white;
+    border: 2px solid #eee;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: 2px solid #c1b9b9;
+
+}
+
+.vertical-menu a {
+    color: #000;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    /*text-align: center;*/
+
+
+}
+
+.vertical-menu a:hover {
+    background-color :black;
+    text-decoration: none;
+    color: #fff;
+    font-weight:bold;
+    /*text-align: center;*/
+}
+
+.nav-image{
+    padding-top: 10px;
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.center{
+    text-align: center;
+}
